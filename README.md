@@ -1,6 +1,6 @@
-### Hi there, I'm Jesse - aka [lcodeSTACKr 👋 
+### Hi there, I'm Blue - aka Bluecraft 👋 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Bluecraftplayz?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FBluecraftplayz&screen_name=Bluecraftplayz)
 
 ## I'm a YouTuber, Teenager, Developer!!
 
@@ -46,7 +46,6 @@
 <!--END_SECTION:activity-->
 
 </details>
----
 
 [twitter]: https://twitter.com/Bluecraftplayz
 [youtube]: https://youtube.com/channel/UCTEEiT-zFAL0gNSFYU_CeYA
