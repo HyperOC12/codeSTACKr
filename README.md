@@ -43,6 +43,9 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#1](https://github.com/AsjadOooO/ddos-attack-tool/issues/1) in [AsjadOooO/ddos-attack-tool](https://github.com/AsjadOooO/ddos-attack-tool)
+2. ❗️ Opened issue [#12](https://github.com/CTK-WARRIOR/Discord-Bot-For-Starters/issues/12) in [CTK-WARRIOR/Discord-Bot-For-Starters](https://github.com/CTK-WARRIOR/Discord-Bot-For-Starters)
+3. 💪 Opened PR [#11](https://github.com/CTK-WARRIOR/Discord-Bot-For-Starters/pull/11) in [CTK-WARRIOR/Discord-Bot-For-Starters](https://github.com/CTK-WARRIOR/Discord-Bot-For-Starters)
 <!--END_SECTION:activity-->
 
 </details>
