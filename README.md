@@ -28,11 +28,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Playing minecraft server](https://www.youtube.com/watch?v=t3qeniVKnPc)
-- [Playing Minecraft crack server](https://www.youtube.com/watch?v=3E1aDr_ZJ-c)
-- [Pet legend Live event](https://www.youtube.com/watch?v=vPS5nfGgKzY)
 - [Run Visual Studio Code on Replit](https://www.youtube.com/watch?v=xKkhWpxsuV0)
 - [how to make your own Minecraft server](https://www.youtube.com/watch?v=X9rKgr_uqPI)
+- [How to play fortnite in your iPhone and iPad](https://www.youtube.com/watch?v=WwMeDOmkZdw)
+- [How to play fortnite or other games in iOS ,iPad , iPhone](https://www.youtube.com/watch?v=e6sNIw5fJvU)
+- [My Outro](https://www.youtube.com/watch?v=Pq_s8PsjZBw)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/channel/UCTEEiT-zFAL0gNSFYU_CeYA)
