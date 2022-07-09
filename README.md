@@ -43,9 +43,9 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/BluecraftDev/Vetrilox/issues/1) in [BluecraftDev/Vetrilox](https://github.com/BluecraftDev/Vetrilox)
-2. ❗️ Opened issue [#10](https://github.com/Lernox-Dev/Caramel-Hosting/issues/10) in [Lernox-Dev/Caramel-Hosting](https://github.com/Lernox-Dev/Caramel-Hosting)
-3. 💪 Opened PR [#11](https://github.com/CTK-WARRIOR/Discord-Bot-For-Starters/pull/11) in [CTK-WARRIOR/Discord-Bot-For-Starters](https://github.com/CTK-WARRIOR/Discord-Bot-For-Starters)
+1. 🗣 Commented on [#10](https://github.com/Lernox-Dev/Caramel-Hosting/issues/10) in [Lernox-Dev/Caramel-Hosting](https://github.com/Lernox-Dev/Caramel-Hosting)
+2. 🗣 Commented on [#1](https://github.com/BluecraftDev/Vetrilox/issues/1) in [BluecraftDev/Vetrilox](https://github.com/BluecraftDev/Vetrilox)
+3. ❗️ Opened issue [#10](https://github.com/Lernox-Dev/Caramel-Hosting/issues/10) in [Lernox-Dev/Caramel-Hosting](https://github.com/Lernox-Dev/Caramel-Hosting)
 <!--END_SECTION:activity-->
 
 </details>
