@@ -43,9 +43,9 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#49](https://github.com/accord-dot-app/app/issues/49) in [accord-dot-app/app](https://github.com/accord-dot-app/app)
-2. 🗣 Commented on [#10](https://github.com/Lernox-Dev/Caramel-Hosting/issues/10) in [Lernox-Dev/Caramel-Hosting](https://github.com/Lernox-Dev/Caramel-Hosting)
-3. 🗣 Commented on [#1](https://github.com/BluecraftDev/Vetrilox/issues/1) in [BluecraftDev/Vetrilox](https://github.com/BluecraftDev/Vetrilox)
+1. 💪 Opened PR [#3119](https://github.com/is-a-dev/register/pull/3119) in [is-a-dev/register](https://github.com/is-a-dev/register)
+2. ❗️ Opened issue [#49](https://github.com/accord-dot-app/app/issues/49) in [accord-dot-app/app](https://github.com/accord-dot-app/app)
+3. 🗣 Commented on [#10](https://github.com/Lernox-Dev/Caramel-Hosting/issues/10) in [Lernox-Dev/Caramel-Hosting](https://github.com/Lernox-Dev/Caramel-Hosting)
 <!--END_SECTION:activity-->
 
 </details>
