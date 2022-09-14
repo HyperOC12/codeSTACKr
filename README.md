@@ -28,11 +28,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [🔴🚪Roblox DOORS Live with viewers🚪🔴](https://www.youtube.com/watch?v=ksAuJlhvQpI)
 - [Bluecraft playing EVERSPACE™](https://www.youtube.com/watch?v=l4cFTdKrKbQ)
 - [Playing Fortnite](https://www.youtube.com/watch?v=tAly2eCC3dU)
 - [Kreekcraft showed Middle finger to fans on stream.](https://www.youtube.com/watch?v=K_7egVh6qLw)
 - [Kreek get caught in 4k](https://www.youtube.com/watch?v=b9cLSWGhtPU)
-- [Run Visual Studio Code on Replit](https://www.youtube.com/watch?v=xKkhWpxsuV0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/channel/UCTEEiT-zFAL0gNSFYU_CeYA)
