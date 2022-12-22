@@ -43,9 +43,9 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3119](https://github.com/is-a-dev/register/pull/3119) in [is-a-dev/register](https://github.com/is-a-dev/register)
-2. ❗️ Opened issue [#49](https://github.com/accord-dot-app/app/issues/49) in [accord-dot-app/app](https://github.com/accord-dot-app/app)
-3. 🗣 Commented on [#10](https://github.com/Lernox-Dev/Caramel-Hosting/issues/10) in [Lernox-Dev/Caramel-Hosting](https://github.com/Lernox-Dev/Caramel-Hosting)
+1. 🗣 Commented on [#18](https://github.com/JayCordDev/Jays-Assistant/issues/18) in [JayCordDev/Jays-Assistant](https://github.com/JayCordDev/Jays-Assistant)
+2. 🗣 Commented on [#18](https://github.com/JayCordDev/Jays-Assistant/issues/18) in [JayCordDev/Jays-Assistant](https://github.com/JayCordDev/Jays-Assistant)
+3. 🗣 Commented on [#18](https://github.com/JayCordDev/Jays-Assistant/issues/18) in [JayCordDev/Jays-Assistant](https://github.com/JayCordDev/Jays-Assistant)
 <!--END_SECTION:activity-->
 
 </details>
