@@ -43,8 +43,8 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#18](https://github.com/JayCordDev/Jays-Assistant/issues/18) in [JayCordDev/Jays-Assistant](https://github.com/JayCordDev/Jays-Assistant)
-2. 🗣 Commented on [#18](https://github.com/JayCordDev/Jays-Assistant/issues/18) in [JayCordDev/Jays-Assistant](https://github.com/JayCordDev/Jays-Assistant)
+1. 🗣 Commented on [#8](https://github.com/NotSaksh/Shop-Managerx/issues/8) in [NotSaksh/Shop-Managerx](https://github.com/NotSaksh/Shop-Managerx)
+2. 🗣 Commented on [#10](https://github.com/NotSaksh/Shop-Managerx/issues/10) in [NotSaksh/Shop-Managerx](https://github.com/NotSaksh/Shop-Managerx)
 3. 🗣 Commented on [#18](https://github.com/JayCordDev/Jays-Assistant/issues/18) in [JayCordDev/Jays-Assistant](https://github.com/JayCordDev/Jays-Assistant)
 <!--END_SECTION:activity-->
 
