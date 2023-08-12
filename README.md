@@ -28,11 +28,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Best 24/7 Minecraft Hosting For Free | Better Than Aternos](https://www.youtube.com/watch?v=pxgxj98fO84)
 - [Ruth B - Dandelions &lpar;Lyrics&rpar;](https://www.youtube.com/watch?v=SnFEgfT4O4c)
 - [✏️ Pet Simulator X! 🐾 | Giveaways | Grinding](https://www.youtube.com/watch?v=SBL_y9smL6o)
 - [make my discord server | chat with you guys](https://www.youtube.com/watch?v=9RxkM6ehI44)
 - [Kreekcraft showed Middle finger to fans on stream.](https://www.youtube.com/watch?v=K_7egVh6qLw)
-- [Kreek get caught in 4k](https://www.youtube.com/watch?v=b9cLSWGhtPU)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/channel/UCTEEiT-zFAL0gNSFYU_CeYA)
