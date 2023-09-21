@@ -28,7 +28,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [🔴 ROBLOX Random Games live *with Viewers*](https://www.youtube.com/watch?v=VAUGYYC37Mc)
+- [🔴Pet Sim x Giveaways](https://www.youtube.com/watch?v=VAUGYYC37Mc)
 - [Playing Roblox wiht Viewers | Robux Giveaway](https://www.youtube.com/watch?v=ZkRj51XayGU)
 - [go watch full video on my channel. #coding #visualstudiocode](https://www.youtube.com/watch?v=1EvgL4em3UI)
 - [Best 24/7 Minecraft Hosting For Free | Better Than Aternos](https://www.youtube.com/watch?v=pxgxj98fO84)
