@@ -28,11 +28,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [ilyaugust - Problems &lpar;sped-up&rpar; AMV](https://www.youtube.com/watch?v=-pn6ZkiEM2c)
 - [🔴Minecraft  Donut SMP With Viewers](https://www.youtube.com/watch?v=XakWsgPV660)
 - [🔴Pet Sim x Giveaways](https://www.youtube.com/watch?v=VAUGYYC37Mc)
 - [Playing Roblox wiht Viewers | Robux Giveaway](https://www.youtube.com/watch?v=ZkRj51XayGU)
 - [✏️ Pet Simulator X! 🐾 | Giveaways | Grinding](https://www.youtube.com/watch?v=SBL_y9smL6o)
+- [make my discord server | chat with you guys](https://www.youtube.com/watch?v=9RxkM6ehI44)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/channel/UCTEEiT-zFAL0gNSFYU_CeYA)
