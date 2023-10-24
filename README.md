@@ -28,7 +28,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [&lpar;🔴LIVE&rpar; Blox Fruit Update 20, farming levels](https://www.youtube.com/watch?v=A6TPe9POUNo)
+- [&lpar;🔴LIVE&rpar; Fortnite | Playing viewers](https://www.youtube.com/watch?v=A6TPe9POUNo)
 - [&lpar;🔴Live&rpar;Blox Fruit  | Grinding  | Update 20](https://www.youtube.com/watch?v=qNDDr7gtZtI)
 - [🔴LIVE Random Games Roblox](https://www.youtube.com/watch?v=j9T8XQCWBmM)
 - [🔴LIVE Random Games Roblox](https://www.youtube.com/watch?v=IQrlOXCRwuk)
