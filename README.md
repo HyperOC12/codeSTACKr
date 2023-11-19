@@ -29,10 +29,10 @@
 
 <!-- YOUTUBE:START -->
 - [&lpar;🔴LIVE&rpar; Fortnite | Playing viewers](https://www.youtube.com/watch?v=A6TPe9POUNo)
+- [[🔴LIVE] Pet Simulator 99 Trailer!](https://www.youtube.com/watch?v=qwO9luJTiTM)
 - [&lpar;🔴Live&rpar;Blox Fruit  | Grinding  | Update 20](https://www.youtube.com/watch?v=qNDDr7gtZtI)
 - [🔴LIVE Random Games Roblox](https://www.youtube.com/watch?v=j9T8XQCWBmM)
 - [🔴LIVE Random Games Roblox](https://www.youtube.com/watch?v=IQrlOXCRwuk)
-- [🔴LIVE Random Games Roblox](https://www.youtube.com/watch?v=GjQl2uAK0Gw)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/channel/UCTEEiT-zFAL0gNSFYU_CeYA)
