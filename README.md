@@ -28,11 +28,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [[🔴LIVE] Pet Simulator 99 Trailer!](https://www.youtube.com/watch?v=_-bBOTMeIEw)
 - [[🔴LIVE] Pet Simulator 99 Trailer!](https://www.youtube.com/watch?v=lBL47iN-4ro)
 - [&lpar;🔴LIVE&rpar; Fortnite | Playing viewers](https://www.youtube.com/watch?v=A6TPe9POUNo)
 - [[🔴LIVE] Pet Simulator 99 Trailer!](https://www.youtube.com/watch?v=qwO9luJTiTM)
 - [&lpar;🔴Live&rpar;Blox Fruit  | Grinding  | Update 20](https://www.youtube.com/watch?v=qNDDr7gtZtI)
-- [🔴LIVE Random Games Roblox](https://www.youtube.com/watch?v=j9T8XQCWBmM)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/channel/UCTEEiT-zFAL0gNSFYU_CeYA)
