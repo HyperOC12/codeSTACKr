@@ -28,11 +28,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [[🔴Live] 2nd last day of fortnite | Live Event Countdown](https://www.youtube.com/watch?v=N7dynUmN2vE)
 - [[🔴LIVE] Pet Simulator 99 Release Today!!](https://www.youtube.com/watch?v=rvWGzopKabk)
 - [[🔴LIVE] Pet Simulator 99 Trailer!](https://www.youtube.com/watch?v=_-bBOTMeIEw)
 - [[🔴LIVE] Pet Simulator 99 Trailer!](https://www.youtube.com/watch?v=lBL47iN-4ro)
 - [[🔴LIVE] Pet Simulator 99 Trailer!](https://www.youtube.com/watch?v=qwO9luJTiTM)
-- [&lpar;🔴LIVE&rpar; Fortnite | Playing viewers](https://www.youtube.com/watch?v=A6TPe9POUNo)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/channel/UCTEEiT-zFAL0gNSFYU_CeYA)
