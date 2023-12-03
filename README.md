@@ -28,8 +28,8 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [[🔴LIVE] Pet Simulator 99 Release!! | giveaway every 5 subs](https://www.youtube.com/watch?v=CFcJOKQ9JhI)
 - [[🔴LIVE] Pet Simulator 99!! | Giveaway at every 10 sub](https://www.youtube.com/watch?v=g5fyni3pCts)
+- [[🔴LIVE] Pet Simulator 99 Release!! | giveaway every 5 subs](https://www.youtube.com/watch?v=CFcJOKQ9JhI)
 - [[🔴LIVE] fortnite](https://www.youtube.com/watch?v=42M6Gjq19rg)
 - [[🔴Live] 2nd last day of fortnite | Live Event Countdown](https://www.youtube.com/watch?v=N7dynUmN2vE)
 - [[🔴LIVE] Pet Simulator 99 Release Today!!](https://www.youtube.com/watch?v=rvWGzopKabk)
