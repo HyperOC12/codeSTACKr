@@ -28,11 +28,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Warzone](https://www.youtube.com/watch?v=w0bYyod1YZ0)
 - [Warzone Mobile New Update](https://www.youtube.com/watch?v=gElKF7oYZ0o)
 - [Warzone Mobile New Update](https://www.youtube.com/watch?v=BHrdjyvRLWg)
 - [Warzone Mobile New Update](https://www.youtube.com/watch?v=6iVN28sVs7Y)
 - [[🔴LIVE] Pet Simulator 99!! | Giveaway at every 10 sub](https://www.youtube.com/watch?v=g5fyni3pCts)
-- [[🔴LIVE] fortnite](https://www.youtube.com/watch?v=42M6Gjq19rg)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/channel/UCTEEiT-zFAL0gNSFYU_CeYA)
