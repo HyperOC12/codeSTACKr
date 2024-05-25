@@ -28,11 +28,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Warzone 3! | Roblox After Doing Classic Event](https://www.youtube.com/watch?v=8jhVtIUqyOA)
 - [Warzone 3 | Lockdown is back](https://www.youtube.com/watch?v=KGpXlfUsejo)
 - [Warzone](https://www.youtube.com/watch?v=w0bYyod1YZ0)
 - [Warzone Mobile New Update](https://www.youtube.com/watch?v=gElKF7oYZ0o)
 - [Warzone Mobile New Update](https://www.youtube.com/watch?v=BHrdjyvRLWg)
-- [Warzone Mobile New Update](https://www.youtube.com/watch?v=6iVN28sVs7Y)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/channel/UCTEEiT-zFAL0gNSFYU_CeYA)
