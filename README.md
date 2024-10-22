@@ -28,8 +28,8 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Live | Playing Warzone | BO6 In 3 days](https://www.youtube.com/watch?v=JsDxi0LmuZs)
 - [Season 5 is here| Warzone 3](https://www.youtube.com/watch?v=OmXmsMX5MZU)
+- [Live | Playing Warzone | BO6 In 3 days](https://www.youtube.com/watch?v=JsDxi0LmuZs)
 - [Season 5 is here| Warzone 3](https://www.youtube.com/watch?v=b-8I0l47UCM)
 - [Season 5 is here| Warzone 3](https://www.youtube.com/watch?v=lUQBwOE3G98)
 - [Season 5 is here| Warzone 3](https://www.youtube.com/watch?v=CN5J4jmymo8)
