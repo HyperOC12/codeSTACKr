@@ -28,11 +28,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [0.8 KD Console Player | Warzone](https://www.youtube.com/watch?v=gFOS5vZjL6Q)
 - [Live | Playing Warzone | BO6 In 3 days](https://www.youtube.com/watch?v=JsDxi0LmuZs)
 - [Season 5 is here| Warzone 3](https://www.youtube.com/watch?v=OmXmsMX5MZU)
 - [Season 5 is here| Warzone 3](https://www.youtube.com/watch?v=b-8I0l47UCM)
 - [Season 5 is here| Warzone 3](https://www.youtube.com/watch?v=lUQBwOE3G98)
-- [Season 5 is here| Warzone 3](https://www.youtube.com/watch?v=CN5J4jmymo8)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/channel/UCTEEiT-zFAL0gNSFYU_CeYA)
