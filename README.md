@@ -28,11 +28,8 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Wuther Wave Story Quest 2.8](https://www.youtube.com/watch?v=9jVuIce2AGM)
-- [🔴 Roblox Games with @ultraniumgaming @PhoenixPlayedGames](https://www.youtube.com/watch?v=6N7g9A51x5k)
-- [🔴 Roblox with friends](https://www.youtube.com/watch?v=TT8-Fw8hnyI)
-- [🔴Minecraft  Donut SMP With Viewers](https://www.youtube.com/watch?v=XakWsgPV660)
-- [🔴Pet Sim x Giveaways](https://www.youtube.com/watch?v=VAUGYYC37Mc)
+- [Iron player does a clutch!! #fyp #valorant](https://www.youtube.com/shorts/5TleMgDJt8E)
+- [Completive eu | trying to reach gold](https://www.youtube.com/watch?v=bXLr8JQNZTg)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/channel/UCTEEiT-zFAL0gNSFYU_CeYA)
