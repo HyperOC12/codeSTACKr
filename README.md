@@ -29,7 +29,6 @@
 
 <!-- YOUTUBE:START -->
 - [Iron player does a clutch!! #fyp #valorant](https://www.youtube.com/shorts/5TleMgDJt8E)
-- [Completive eu | trying to reach gold](https://www.youtube.com/watch?v=bXLr8JQNZTg)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/channel/UCTEEiT-zFAL0gNSFYU_CeYA)
