@@ -28,7 +28,6 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Completive eu | trying to reach gold](https://www.youtube.com/watch?v=dSzfAsVKRFs)
 - [Iron player does a clutch!! #fyp #valorant](https://www.youtube.com/shorts/5TleMgDJt8E)
 <!-- YOUTUBE:END -->
 
