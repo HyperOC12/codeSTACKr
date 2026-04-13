@@ -28,6 +28,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [sorry for the trash quality. Doing my best. #valorant #valorantclip #gaming #valorant](https://www.youtube.com/shorts/66aL3X1A6S4)
 - [Iron player does a clutch!! #fyp #valorant](https://www.youtube.com/shorts/5TleMgDJt8E)
 <!-- YOUTUBE:END -->
 
