@@ -28,8 +28,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [sorry for the trash quality. Doing my best. #valorant #valorantclip #gaming #valorant](https://www.youtube.com/shorts/66aL3X1A6S4)
-- [Iron player does a clutch!! #fyp #valorant](https://www.youtube.com/shorts/5TleMgDJt8E)
+- [Swift trolling!! Competitive later!!!!](https://www.youtube.com/watch?v=G9Zf6HATxgU)
+- [Swift trolling!! Competitive later!!!!](https://www.youtube.com/watch?v=YbhV_0d-hj0)
+- [Swift trolling!! Competitive later!!!!](https://www.youtube.com/watch?v=LlmN6zIsQpg)
+- [Swift trolling!! Competitive later!!!!](https://www.youtube.com/watch?v=LClN1UtIcXc)
+- [Swift trolling!! Competitive later!!!!](https://www.youtube.com/watch?v=vaGSqq_JdJI)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/channel/UCTEEiT-zFAL0gNSFYU_CeYA)
