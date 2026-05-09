@@ -28,11 +28,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [I hate when teammate take ur ace  #valorant #valorantclips #valorantclip #fyp](https://www.youtube.com/shorts/SWRVk7FDXf8)
 - [Swift trolling!! Competitive later!!!!](https://www.youtube.com/watch?v=G9Zf6HATxgU)
 - [Swift trolling!! Competitive later!!!!](https://www.youtube.com/watch?v=YbhV_0d-hj0)
 - [Swift trolling!! Competitive later!!!!](https://www.youtube.com/watch?v=LlmN6zIsQpg)
 - [Swift trolling!! Competitive later!!!!](https://www.youtube.com/watch?v=LClN1UtIcXc)
-- [Swift trolling!! Competitive later!!!!](https://www.youtube.com/watch?v=vaGSqq_JdJI)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/channel/UCTEEiT-zFAL0gNSFYU_CeYA)
