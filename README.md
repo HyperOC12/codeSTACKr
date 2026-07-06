@@ -28,7 +28,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Comps grinds | !discord !lurk !social !rank #shorts](https://www.youtube.com/watch?v=KaGmcypXh-o)
+- [Comps grinds | !discord !lurk !social !rank #shorts](https://www.youtube.com/watch?v=FDe1csvFke4)
 - [Clips from june #valorant #valorantclutchmoments #valorantclips # #gaming #valorantgaming](https://www.youtube.com/shorts/OgDlpEZYyz0)
 - [Best way to sell ur friend in backrooms #gaming #twitch #clips #backrooms #funny](https://www.youtube.com/shorts/kLvPkfaRHRk)
 - [Ace  #valorant #valorantclutchmoments #valorantclip #valorantclips #gaming](https://www.youtube.com/shorts/T3KsmrU4TYA)
