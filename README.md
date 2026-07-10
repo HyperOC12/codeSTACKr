@@ -28,11 +28,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [POV: You&#39;re about to ace... but you can&#39;t find the last player.  #valorant #valorantclips #gaming](https://www.youtube.com/shorts/dA17yuW7YtU)
+- [Guardian over vandal  #valorant #valorantclips #gaming #valorantclutchmoments #valorantgaming](https://www.youtube.com/shorts/2ph43z6WDX0)
 - [Silver Lobbies are ragebaiting me | !discord !lurk !social !rank](https://www.youtube.com/watch?v=7VBi6_anhMU)
 - [bro i am suffering i cant setup vertical stream | !discord !lurk !social !rank](https://www.youtube.com/watch?v=AJPJj7NopIM)
 - [Clips from june #valorant #valorantclutchmoments #valorantclips # #gaming #valorantgaming](https://www.youtube.com/shorts/OgDlpEZYyz0)
-- [Best way to sell ur friend in backrooms #gaming #twitch #clips #backrooms #funny](https://www.youtube.com/shorts/kLvPkfaRHRk)
-- [Ace  #valorant #valorantclutchmoments #valorantclip #valorantclips #gaming](https://www.youtube.com/shorts/T3KsmrU4TYA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/channel/UCTEEiT-zFAL0gNSFYU_CeYA)
