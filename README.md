@@ -28,11 +28,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Plat 1 ?? | !discord !lurk !social !rank](https://www.youtube.com/watch?v=7cr4KQXIKZk)
 - [Plat 1 ?? | !discord !lurk !social !rank](https://www.youtube.com/watch?v=QZm85yYSS6Y)
 - [Plat 1 ?? | !discord !lurk !social !rank](https://www.youtube.com/watch?v=v7qy9orUTuI)
 - [Plat 1 ?? | !discord !lurk !social !rank](https://www.youtube.com/watch?v=kQJG4sfOtdI)
 - [POV: You&#39;re about to ace... but you can&#39;t find the last player.  #valorant #valorantclips #gaming](https://www.youtube.com/shorts/dA17yuW7YtU)
-- [Guardian over vandal  #valorant #valorantclips #gaming #valorantclutchmoments #valorantgaming](https://www.youtube.com/shorts/2ph43z6WDX0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/channel/UCTEEiT-zFAL0gNSFYU_CeYA)
