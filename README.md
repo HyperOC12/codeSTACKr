@@ -28,11 +28,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [ranked grind | !discord !lurk !social !rank](https://www.youtube.com/watch?v=PFy7SVNv6p0)
 - [ranked grind | !discord !lurk !social !rank](https://www.youtube.com/watch?v=XnWS5S_PsJI)
 - [Plat 1 ?? | !discord !lurk !social !rank](https://www.youtube.com/watch?v=7cr4KQXIKZk)
 - [Plat 1 ?? | !discord !lurk !social !rank](https://www.youtube.com/watch?v=QZm85yYSS6Y)
 - [Plat 1 ?? | !discord !lurk !social !rank](https://www.youtube.com/watch?v=v7qy9orUTuI)
-- [Plat 1 ?? | !discord !lurk !social !rank](https://www.youtube.com/watch?v=kQJG4sfOtdI)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/channel/UCTEEiT-zFAL0gNSFYU_CeYA)
